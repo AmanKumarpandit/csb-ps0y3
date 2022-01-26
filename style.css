@@ -1,0 +1,43 @@
+.heading {
+  background-color: rgb(214, 235, 32);
+  text-align: center;
+  border-radius: 10px;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Mono", monospace;
+}
+.heading2 {
+  background-color: chartreuse;
+  text-align: center;
+  border-radius: 10px;
+  font-family: "Roboto", sans-serif;
+}
+
+.para {
+  text-align: center;
+  font-style: italic;
+  color: rgb(24, 207, 253);
+  font-family: "Comforter", cursive;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Mono", monospace;
+}
+.copyright_para {
+  text-align: center;
+  font-style: italic;
+  color: darkcyan;
+  border-radius: 15px;
+}
+.div-img {
+  text-align: center;
+}
+.food-img {
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+}
+.footer-img {
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
